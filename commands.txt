@@ -1,5 +1,5 @@
-127.0.0.1:5555
+78.97.107.247:5555
 1.1.1.1 abc1
 2.2.2.2 abc2
 3.3.3.3 abc3
-78.97.107.247 downloadrun https://github.com/Alex31TheDev/FileTest/blob/main/TestCPlusApp.exe e:/desktop/abc12345.exe
+78.97.107.247 abc
